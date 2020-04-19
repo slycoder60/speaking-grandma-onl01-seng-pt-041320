@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 speak_to_grandma
-puts phrase = "HUH?! SPEAK UP SONNY!"
-if phrase == "HUH SPEAK UP SONNY!"
-end
+puts "SPEAK UP SONNY!"
+
 
 
 # Whatever you say to grandma, she should respond with
