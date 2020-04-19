@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-speak_to_grandma("phrase")
+speak_to_grandma(phrase)
 if "phrase"
   puts "HUH?! SPEAK UP SONNY!"
 
