@@ -1,10 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
-phrase="HUH?! SPEAK UP SONNY!"
-if "phrase".downcase
-  puts "HUH?! Speak UP SONNY"
-else "phrase".uppercase
-  puts "NO, NOT SINCE 1938" 
+if "#{phrase.uppercase}"
 end
 
 
