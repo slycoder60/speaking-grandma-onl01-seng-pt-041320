@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 speak_to_grandma(phrase)
-phrase="HUH?! SPEAK UP SONNY!"
-if "phrase"
-  puts "HUH?! SPEAK UP SONNY!"
+phrase = "HUH?! SPEAK UP SONNY!"
+if phrase == "HUH SPEAK UP SONNY!"
 end
 
 
