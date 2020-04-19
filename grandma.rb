@@ -14,8 +14,6 @@
 def speak_to_grandma(phrase)
 if "phrase" == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMKIN"
-  puts "HUH?! SPEAK UP SONNY!"
-else "phrase" .uppercase
-  puts "NO, NOT SINCE 1938!"
+
 end
 end
